@@ -1,6 +1,6 @@
 {
   "name": "@adhikari_mithun/function_evaluator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package to evaluate a string to a function.",
   "main": "Evaluator",
   "repository": {
