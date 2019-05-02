@@ -1,0 +1,25 @@
+{
+  "name": "@adhikari_mithun/function_evaluator",
+  "version": "1.0.1",
+  "description": "A package to evaluate a string to a function.",
+  "main": "Evaluator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mithunadhikari40/function_evaluator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mithunadhikari40/function_evaluator/issues"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "eval",
+    "@adhikari_mithun/function_evaluator",
+    "function_evaluator"
+  ],
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Mithun",
+    "url": "https://github.com/mithunadhikari40"
+  }
+}
