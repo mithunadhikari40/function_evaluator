@@ -17,7 +17,7 @@ Usage
 `
 var evaluate = require('@adhikari_mithun/function_evaluator')`
 
-`var res = _evaluate(content,callback)`
+`var res = evaluate(content,callback)`
 
 The following options are available:
 
